@@ -27,5 +27,5 @@ Adaboost is selected with dataframe 1 where the main features of decisions are t
 
 Future work for the regressions: Perform this study with similar dataframes but only based on one feature containing categorical values: Region or FacilityType.
 
-Future work for the neuronal networks: Perform this study of all dataframes for the more strict convergence criteria and implement a Bayesian Optimization.
+Future work for the neuronal networks: Perform this study of all dataframes for more strict convergence criteria and implement a Bayesian Optimization.
 
