@@ -1,5 +1,5 @@
 # From linear regressions to exapandle neuronal networks: contract selection in renewable energy businesses
-ROI criterium is predicted based on several dataframes and regression algorithms and expandable neuronal networks to choose more accurately our clients while making B2B contracts in the renewable energy businesses.
+ROI criterium is predicted based on several dataframes with regression algorithms and expandable neuronal networks to choose more accurately our clients while making B2B contracts in the renewable energy businesses.
 
 First of all the dataframe is cleaned and statics are performed on the features. There are features with categorical values: Region, FacilityType and energies: 
 Hotwater, electricy based on SolarPanel, Wind and the total energy (Energy_tot) and an Area divided by a area of reference (Area2refArea).
